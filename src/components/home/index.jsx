@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import './index.css';
 
-className LoginComponent extends Component {
+class HomeComponent extends Component {
   render() {
     return (
       <div classNameName="login">
-          <h1>FORM LOGIN</h1>
+          <h1>HOME</h1>
       </div>
     );
   }
 }
 
-export default App;
+export default HomeComponent;

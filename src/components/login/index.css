@@ -1,3 +1,19 @@
 .login .login-form{
     margin: 80px auto;
 }
+.title {
+        box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+}
+.card .card-body h3{
+    margin: 0;
+        font-weight: 800;
+}
+.blue.accent-1{
+    height: 50px;
+    text-align: center;
+    margin-top: -45px;
+    border-radius: 5px;
+}
+h3{
+        padding-top: 12px;
+}
